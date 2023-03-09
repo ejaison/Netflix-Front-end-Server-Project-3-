@@ -1,0 +1,21 @@
+//Eric Jaison 
+//Netflix Web 
+//Java 
+//Dr. Doderer
+//Nov 15, 2022
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Log in Page</title>
+</head>
+<body>
+<form action="http://Localhost:8081/Project3/MainServlet" method="get">
+		Enter your name: <input type="text" name="username"> <br>
+		Enter your password<input type="password" name="password"> <br> 
+		<input type="submit" value="Log In" name="login">
+	</form>
+
+</body>
+</html>
