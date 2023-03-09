@@ -1,8 +1,6 @@
-//Eric Jaison 
+//Eric
 //Netflix Web 
 //Java 
-//Dr. Doderer
-//Nov 15, 2022
 
 package servletPackage;
 
